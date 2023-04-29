@@ -1,16 +1,18 @@
-# todolist
+# ToDo App
 
-A new Flutter project.
+Aplicativo criado com o intuito de ensinar alguns conceitos básicos sobre flutter em uma oficina realizada durante a 1ª edição da semana de computação da UPE Campus Garanhuns. Tem como funcionalidade o registro de tarefas, podendo adicionar, atualizar, deletar e listar as tarefas, além de poder marcar se ela está concluída ou não.
 
-## Getting Started
+## Tecnologias utilizadas
 
-This project is a starting point for a Flutter application.
+* Flutter
+* Hive
 
-A few resources to get you started if this is your first Flutter project:
+## Materiais utilizados
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* [Slide](https://docs.google.com/presentation/d/1jaNtKc1pFab4nQzTHB_YI-cc4YNDxUxsrQBjah5NvyY/edit?usp=sharing)
+* [Figma - Protótipo](https://www.figma.com/file/lUwU4elkkZL8JOUKLwIfcG/TODO-LIST---Oficina-Flutter?node-id=1%3A2&t=uYqMaiRUknMnwkEM-1)
+* [Demonstração](https://youtu.be/8yLHbwhyPbg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Realizado por
+
+* [Lucas Monteiro](https://github.com/lucas752)
